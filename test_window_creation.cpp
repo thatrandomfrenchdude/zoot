@@ -25,15 +25,4 @@ int main() {
         std::cerr << "SDL_GL_CreateContext Error: " << SDL_GetError() << std::endl;
         SDL_DestroyWindow(window);
         SDL_Quit();
-        return 1;
-    }
-
-    // Test OpenGL
-    std::cout << "OpenGL Version: " << glGetString(GL_VERSION) << std::endl;
-
-    SDL_GL_DeleteContext(context);
-    SDL_DestroyWindow(window);
-    SDL_Quit();
-
-    return 0;
-}
+ 

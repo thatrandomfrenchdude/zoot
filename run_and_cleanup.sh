@@ -7,4 +7,4 @@ docker-compose build
 docker-compose run --rm zoot
 
 # Remove the Docker image
-docker rmi $(docker images -q 2d_game-zoot)
+docker rmi $(docker images -q 2d_game-zoo
