@@ -1,6 +1,6 @@
 # zoot
 
-A simple C++ visualization of two players with battling pets that move randomly across a board. They battle if they run come within two squares of each other.<br> I was playing pokemon and wanted to make a very high level base for it with which I can play around.
+A simple C++ visualization of two players with battling pets that move randomly across a board. They battle if they run come within two squares of each other.<br><br> I was playing pokemon and wanted to make a very high level base for it with which I can play around.
 
 ### Run Instructions
 The following instructions have only been verified on MacOS Sonoma 14.5.
