@@ -5,7 +5,7 @@ A simple C++ visualization of two players with battling pets that move randomly 
 ### Run Instructions
 The following instructions have only been verified on MacOS Sonoma 14.5.
 
-0. install Docker Desktop
+0. install Docker Desktop and make sure it is running<br>
 
 1. run XQuartz<br>
 ```open -a XQuartz```
